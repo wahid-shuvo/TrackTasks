@@ -11,12 +11,6 @@
       "day": "Wednesday",
       "reminder": true,
       "id": 2
-    },
-    {
-      "text": "Project meeting",
-      "day": "Friday",
-      "reminder": true,
-      "id": 3
     }
   ]
 }
