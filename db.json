@@ -9,7 +9,7 @@
     {
       "text": "Cricket match",
       "day": "Wednesday",
-      "reminder": false,
+      "reminder": true,
       "id": 2
     },
     {
