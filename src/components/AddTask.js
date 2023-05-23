@@ -10,7 +10,11 @@ const AddTask = ({ onAdd }) => {
 
 
     const onSubmit = (e) => {
-        e.preventDefault();
+
+        onAdd({ text, day, reminder })
+        setText('')
+        setDay('')
+        setReminder('')
     }
 
     return (
