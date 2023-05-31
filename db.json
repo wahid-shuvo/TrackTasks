@@ -11,6 +11,12 @@
       "day": "Wednesday",
       "reminder": true,
       "id": 2
+    },
+    {
+      "text": "sd",
+      "day": "Friday",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
