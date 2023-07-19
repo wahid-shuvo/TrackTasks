@@ -1,5 +1,5 @@
-# This task scheduler application can track all types of daily tasks.
-# This project is developed using React for frontend and Json-server for the backend.
+# Task Sceduler
+- This project is developed using React for frontend and Json-server for the backend.
 
 To run the frontend UI, please use the following command:
 
