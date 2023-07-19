@@ -1,18 +1,17 @@
-# This is a simple task scheduler project for tracking all types of Task.
-# This project is built with React for frontend and A dumy Json-server for backend 
+# This task scheduler application can track all types of daily tasks.
+# This project is developed using React for frontend and Json-server for the backend.
 
-In the project directory, you can run the following command to run the frontend UI:
+To run the frontend UI, please use the following command:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+and then visit [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-In the project directory, you can run the following command to run the frontend UI:
+To run the backend server, please use the below command.
 
 ### `npm run server`
 
-Open [http://localhost:5000](http://localhost:5000) to view the backend API in your browser.
+
 
 
 
